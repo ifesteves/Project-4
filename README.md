@@ -26,10 +26,3 @@ Testaremos duas hipóteses relacionadas às pontuações médias de usuários pa
 
 ### Etapa 6: Conclusão Geral
 Faremos uma conclusão geral, resumindo nossas descobertas e conclusões sobre os padrões que determinam o sucesso dos videogames.
-
-## Como Usar
-Para reproduzir este projeto, você pode clonar este repositório e executar o código fornecido em um ambiente Jupyter Notebook.
-
-## Avaliação
-O projeto será avaliado com base nos critérios estabelecidos, incluindo a descrição dos problemas identificados nos dados, preparação adequada dos dados, construção de gráficos explicativos, análise estatística, formulação e teste de hipóteses, conclusões tiradas e clareza dos comentários em cada etapa.
-
